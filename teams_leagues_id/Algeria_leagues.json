@@ -1,0 +1,335 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "186",
+        "season": "2023"
+    },
+    "errors": [],
+    "results": 16,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "team": {
+                "id": 904,
+                "name": "CR Belouizdad",
+                "code": "BEL",
+                "country": "Algeria",
+                "founded": 1962,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/904.png"
+            },
+            "venue": {
+                "id": 10,
+                "name": "Stade du 20 Ao\u00fbt 1955",
+                "address": "Rue Mohamed Belouizdad",
+                "city": "Algiers",
+                "capacity": 20000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/10.png"
+            }
+        },
+        {
+            "team": {
+                "id": 905,
+                "name": "ES Setif",
+                "code": "SET",
+                "country": "Algeria",
+                "founded": 1958,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/905.png"
+            },
+            "venue": {
+                "id": 19,
+                "name": "Stade du 8 Mai 1945",
+                "address": "15, avenue du 8 mai 45",
+                "city": "S\u00e9tif",
+                "capacity": 25000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/19.png"
+            }
+        },
+        {
+            "team": {
+                "id": 906,
+                "name": "MC Alger",
+                "code": "ALG",
+                "country": "Algeria",
+                "founded": 1921,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/906.png"
+            },
+            "venue": {
+                "id": 24,
+                "name": "Stade Omar Hamadi",
+                "address": "12, avenue Commandant Mira, Bab El Oued",
+                "city": "Algiers",
+                "capacity": 17500,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/24.png"
+            }
+        },
+        {
+            "team": {
+                "id": 907,
+                "name": "MC Oran",
+                "code": "ORA",
+                "country": "Algeria",
+                "founded": 1946,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/907.png"
+            },
+            "venue": {
+                "id": 25,
+                "name": "Stade Ahmed Zabana",
+                "address": "5/7, Boulevard Abane Ramdane",
+                "city": "Oran",
+                "capacity": 55000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/25.png"
+            }
+        },
+        {
+            "team": {
+                "id": 909,
+                "name": "US Biskra",
+                "code": null,
+                "country": "Algeria",
+                "founded": 1934,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/909.png"
+            },
+            "venue": {
+                "id": 19338,
+                "name": "Stade 18 F\u00e9vrier",
+                "address": "Boulevard Hamouda Abderezak",
+                "city": "Biskra",
+                "capacity": 35000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/19338.png"
+            }
+        },
+        {
+            "team": {
+                "id": 910,
+                "name": "USM Alger",
+                "code": "ALG",
+                "country": "Algeria",
+                "founded": 1937,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/910.png"
+            },
+            "venue": {
+                "id": 24,
+                "name": "Stade Omar Hamadi",
+                "address": "12, avenue Commandant Mira, Bab El Oued",
+                "city": "Algiers",
+                "capacity": 17500,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/24.png"
+            }
+        },
+        {
+            "team": {
+                "id": 911,
+                "name": "CS Constantine",
+                "code": "CON",
+                "country": "Algeria",
+                "founded": 1898,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/911.png"
+            },
+            "venue": {
+                "id": 16,
+                "name": "Stade Mohamed-Hamlaoui",
+                "address": "Cit\u00e9 les Muriers",
+                "city": "Constantine",
+                "capacity": 50000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/16.png"
+            }
+        },
+        {
+            "team": {
+                "id": 914,
+                "name": "JS Saoura",
+                "code": null,
+                "country": "Algeria",
+                "founded": 2008,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/914.png"
+            },
+            "venue": {
+                "id": 2594,
+                "name": "Stade du 20 Ao\u00fbt 1955",
+                "address": null,
+                "city": "Bechar",
+                "capacity": 20000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/2594.png"
+            }
+        },
+        {
+            "team": {
+                "id": 915,
+                "name": "Paradou AC",
+                "code": null,
+                "country": "Algeria",
+                "founded": 1994,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/915.png"
+            },
+            "venue": {
+                "id": 27,
+                "name": "Stade Ahmed-Falek",
+                "address": "Immeuble La R\u00e9sidence",
+                "city": "Hydra",
+                "capacity": 4000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/27.png"
+            }
+        },
+        {
+            "team": {
+                "id": 918,
+                "name": "JS Kabylie",
+                "code": "KAB",
+                "country": "Algeria",
+                "founded": 1946,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/918.png"
+            },
+            "venue": {
+                "id": 22,
+                "name": "Stade du 1er Novembre 1954",
+                "address": "Stade du 1er Novembre 1954",
+                "city": "Tizi-Ouzou",
+                "capacity": 25000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/22.png"
+            }
+        },
+        {
+            "team": {
+                "id": 931,
+                "name": "ASO Chlef",
+                "code": "CHL",
+                "country": "Algeria",
+                "founded": 1947,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/931.png"
+            },
+            "venue": {
+                "id": 15,
+                "name": "Stade Mohamed Boumezrag",
+                "address": null,
+                "city": "Chlef",
+                "capacity": 15000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/15.png"
+            }
+        },
+        {
+            "team": {
+                "id": 1071,
+                "name": "NC Magra",
+                "code": "MAG",
+                "country": "Algeria",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/1071.png"
+            },
+            "venue": {
+                "id": 1814,
+                "name": "Stade Municipal de Magra",
+                "address": null,
+                "city": "Magra",
+                "capacity": 8000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/1814.png"
+            }
+        },
+        {
+            "team": {
+                "id": 10743,
+                "name": "El Bayadh",
+                "code": null,
+                "country": "Algeria",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/10743.png"
+            },
+            "venue": {
+                "id": 19340,
+                "name": "Stade Zakaria Medjdoub",
+                "address": null,
+                "city": "El-Bayadh",
+                "capacity": 8000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/19340.png"
+            }
+        },
+        {
+            "team": {
+                "id": 10752,
+                "name": "Khenchela",
+                "code": null,
+                "country": "Algeria",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/10752.png"
+            },
+            "venue": {
+                "id": 11109,
+                "name": "Stade Hamam Ammar",
+                "address": "Rue Ali Boussaha",
+                "city": "Khenchela",
+                "capacity": 5000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/11109.png"
+            }
+        },
+        {
+            "team": {
+                "id": 10792,
+                "name": "Ben Aknoun",
+                "code": null,
+                "country": "Algeria",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/10792.png"
+            },
+            "venue": {
+                "id": 12562,
+                "name": "Stade Ben Aknoun",
+                "address": null,
+                "city": "Ben Aknoun",
+                "capacity": 5000,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/12562.png"
+            }
+        },
+        {
+            "team": {
+                "id": 19994,
+                "name": "US Souf",
+                "code": null,
+                "country": "Algeria",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/19994.png"
+            },
+            "venue": {
+                "id": 20459,
+                "name": "Stade El Oued OPOW",
+                "address": "Route de Tebessa El Oued",
+                "city": "El Oued",
+                "capacity": 7200,
+                "surface": "artificial turf",
+                "image": "https://media.api-sports.io/football/venues/20459.png"
+            }
+        }
+    ]
+}

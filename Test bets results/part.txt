@@ -1,0 +1,6 @@
+Predicted goals for CS Constantine: 1.09 scored, 0.70 suffered
+Predicted goals for ES Setif: 0.43 scored, 1.66 suffered
+Final predicted score: CS Constantine 1.38 - 0.56 ES Setif
+Predicted goals for USM Alger: 0.60 scored, 1.60 suffered
+Predicted goals for MC Oran: 1.48 scored, 0.49 suffered
+Final predicted score: USM Alger 0.54 - 1.54 MC Oran
